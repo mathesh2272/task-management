@@ -29,7 +29,7 @@ function renderTasks(filter = "All") {
                     <button onclick="editTask(${index})">Edit</button>
                     <button onclick="deleteTask(${index})">Delete</button>
                     <button onclick="toggleStatus(${index})">
-                        ${task.status === "Pending" ? "Completed" : "Pending"}
+                        ${task.status === "Pending" ? "Mark Completed" : "Mark Pending"}
                     </button>
                 </div>
             `;
