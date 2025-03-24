@@ -26,3 +26,4 @@ The Task Management Application is a simple and intuitive web app for creating, 
 - **index.html**: Main HTML file with the application structure
 - **styles.css**: CSS file for styling and responsive design
 - **script.js**: JavaScript file for logic and functionality
+- **README.md**: Details about the task manager
